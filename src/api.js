@@ -1,4 +1,4 @@
-const API_URL = 'http://api.favorit-parts.ru/hs/hsprice/';
+const API_URL = 'https://api.favorit-parts.ru/hs/hsprice/';
 const API_TEST_KEY = '00000000-0000-0000-0000-000000000001';
 
 const KNOWN_ERRORS = {
